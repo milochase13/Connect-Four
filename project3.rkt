@@ -4,7 +4,6 @@
 (require "../include/cs151-image.rkt")
 (require "../include/cs151-universe.rkt")
 
-;; We'll use the same version of Some and Optional that we used on Homework 5.
 (define-struct (Some X)
   ([value : X]))
     
