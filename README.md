@@ -1,4 +1,6 @@
 # Connect-Four
+Written for CS 151
+
 Interactive connect four game with options to play human or bot. Implemented in Typed Racket. 
 
 To run a game, within program call the "play" function with parameters (Controller, Controller, and formating radius).
